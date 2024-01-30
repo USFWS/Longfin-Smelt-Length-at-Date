@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Longfin Smelt Length at Date",
+    "organization": "U.S. Fish & Wildlife Service",
+    "description": "Data and code to support the development of length at date criteria used to separate year classes of the Bay-Delta DPS of Longfin Smelt; Appendix C of the SSA for the Bay-Delta DPS of Longfin Smelt",
+    "version": "1.0",
+    "status": "release candidate",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "GPL 3.0",
+          "URL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date/blob/main/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date ",
+    "downloadURL": "Longfin-Smelt-Length-at-Datearchive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date.git",
+    "vcs": "git",
+
+    "laborHours": 2,
+
+    "tags": [
+      "r8",
+      "usfws"
+    ],
+
+    "languages": [
+	  "r",
+      "json",
+      "md",
+      "html"
+    ],
+
+    "contact": {
+      "name": "Vanessa Tobias",
+      "email": "vanessa_tobias@fws.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2024-01-30"
+    }
+  }
+]
