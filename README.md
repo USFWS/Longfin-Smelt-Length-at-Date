@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains data and code to support the development of length at date criteria used to separate year classes of the Bay-Delta DPS of [Longfin Smelt (*Spirinchus thaleichthys*)](https://www.fws.gov/species/longfin-smelt-spirinchus-thaleichthys). This code was used in Appendix C of the [Species Status Assessment (SSA)] (https://www.fws.gov/node/4531791) for the Bay-Delta DPS of Longfin Smelt. Further development of this project may also occur.
+This repository contains data and code to support the development of length at date criteria used to separate year classes of the Bay-Delta DPS of [Longfin Smelt (*Spirinchus thaleichthys*)](https://www.fws.gov/species/longfin-smelt-spirinchus-thaleichthys). This code was used in Appendix C of the [Species Status Assessment (SSA)](https://www.fws.gov/node/4531791) for the Bay-Delta DPS of Longfin Smelt. Further development of this project may also occur.
 
 
 ## Installation
