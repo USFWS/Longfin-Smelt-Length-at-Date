@@ -17,4 +17,4 @@ Contact the project maintainer for help with this code.
 
 ## Contribute
 
-Contact the project maintainer for information about contributing to this project. Submit a [GitHub Issue](https://github.com/USFWS/Longfin-Smelt-Length-at-Date/issues) to report a bug or request a feature or enhancement.
+Contact the [project maintainer](emailto:vanessa_tobias@fws.gov) for information about contributing to this project. Submit a [GitHub Issue](https://github.com/USFWS/Longfin-Smelt-Length-at-Date/issues) to report a bug or request a feature or enhancement.
