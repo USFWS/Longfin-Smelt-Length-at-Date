@@ -1,4 +1,4 @@
-# Longfin Smelt Length at Date
+# Longfin Smelt Length at Date Criteria
 
 
 ## Overview
@@ -6,6 +6,8 @@
 This repository contains data and code to support the development of length at date criteria for the Bay-Delta DPS of [Longfin Smelt (*Spirinchus thaleichthys*)](https://www.fws.gov/species/longfin-smelt-spirinchus-thaleichthys). These length at date criteria build on existing static length at date criteria to categorize Longfin Smelt into year class-specific age class categories. This code was used in Appendix C of the [Species Status Assessment (SSA)](https://www.fws.gov/node/4531791) for the Bay-Delta DPS of Longfin Smelt. Further development of this project may also occur.
 
 There are two main R scripts in this repository. The first (lengthClust.R) develops a set of age at length criteria for each age class in the dataset. The second (lengthClustTest.R) uses k-fold cross-validation to assess the consistency of the classification method with five parts of the dataset.
+
+Data for this study were derived from the Interagency Ecological Program's [long-term monitoring data](https://iep.ca.gov/Data/IEP-Survey-Data).
 
 
 ## Installation
