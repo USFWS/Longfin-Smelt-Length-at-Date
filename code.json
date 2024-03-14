@@ -16,8 +16,8 @@
       ]
     },
 
-    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date ",
-    "downloadURL": "Longfin-Smelt-Length-at-Datearchive/refs/heads/main.zip",
+    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date",
+    "downloadURL": "Longfin-Smelt-Length-at-Date/archive/refs/heads/main.zip",
     "disclaimerURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date/blob/main/DISCLAIMER.md",
     "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Length-at-Date.git",
     "vcs": "git",
@@ -42,7 +42,7 @@
     },
 
     "date": {
-      "metadataLastUpdated": "2024-01-30"
+      "metadataLastUpdated": "2024-03-14"
     }
   }
 ]
